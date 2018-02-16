@@ -43,4 +43,3 @@ for i in range(len(digit)):
 
 result = ' و '.join(result_list[::-1])
 print(result)
-# akbarzadeh's brother : 09126670051
