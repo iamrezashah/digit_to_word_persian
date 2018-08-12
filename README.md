@@ -1,2 +1,6 @@
 # digit_to_word_persian
+<<<<<<< HEAD
 thiS piece of python code allows you to convert digits to words. I'm still working on it...
+=======
+This piece of python code allows you to convert digits to words. I'm still working on it...
+>>>>>>> 5e40a2f40cda3fa9be72ea3551cc7f97635e260f
